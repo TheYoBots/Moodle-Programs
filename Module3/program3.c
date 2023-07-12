@@ -34,5 +34,5 @@ int main() {
         printf("%d",odd);
     else
         printf("%d",eve);
-    
+    return 0;
 }

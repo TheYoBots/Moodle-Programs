@@ -41,7 +41,7 @@ int main() {
         for(int j=3; j<=30; j++) {
             for(int k=5; k<=35; k++) {
                 if(i*i+j*j==k*k) {
-                    printf("\(%d, %d, %d\)\n",i,j,k);
+                    printf("(%d, %d, %d)\n",i,j,k);
                 }
             }
         }

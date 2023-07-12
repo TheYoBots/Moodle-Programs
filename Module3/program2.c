@@ -30,4 +30,5 @@ int main() {
     }
     printf("Height of smallest student in class = %d cms\n",min);
     printf("Height of Tallest student in class = %d cms",max);
+    return 0;
 }

@@ -45,4 +45,5 @@ int main() {
             printf("%d PM\n",i-12);
         }
     }
+    return 0;
 }

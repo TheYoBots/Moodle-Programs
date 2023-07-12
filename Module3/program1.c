@@ -32,4 +32,5 @@ int main() {
             printf("a[%d] & a[%d] are not equal\n",i,j);
         }
     }
+    return 0;
 }
